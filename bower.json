@@ -1,0 +1,15 @@
+{
+  "name": "bignumber",
+  "version": "2.0.1",
+  "main": "bignumber.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "docs",
+    "perf",
+    "tests",
+    "Gruntfile.js",
+    "package.js",
+    "package.json"
+  ]
+}
